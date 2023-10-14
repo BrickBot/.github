@@ -4,7 +4,7 @@ This BrickBot organization contains projects related to the original Lego MindSt
 
 A hacker community grew around the RCX—individuals intrigued by the capabilities and determined to push the limits of what was possible.
 Of a time before GitHub came to prominence as site for sharing open source projects, many of these RCX projects were scattered
-on various person and univeristy website across the Internet.
+on various personal and univeristy websites across the Internet.
 
 A number of these projects have otherwise disappeared from the Internet, while others languished in deprecated version control systems 
 or could only be found by looking up the website on an Internet archive.
