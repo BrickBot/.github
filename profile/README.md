@@ -13,10 +13,9 @@ but whereever and whenever possible, links to either the original website (if st
 
 Despite these efforts, several projects are known to have slipped through the cracks.  If anyone might still have a copy of these,
 the contribution of that code would be most welcome.
-* [Visual Storms / Sharp Storms](http://medialab.di.unipi.it/Project/visualstorms/resources.html) <sup>↗</sup>
 * [Pocket Programmer](https://www.navina.ch/workshop/rcx/rcx.html) <sup>↗</sup>
-* [MindStorms Tools](https://web.archive.org/web/20120130101715/http://ddi.uni-paderborn.de/index.php?id=4800&L=1), <sup>↗</sup>  which included the following individual tools:
-* Phantom: An alterative to Spirit.ocx
+* [Phantom](https://web.archive.org/web/20101213054842/http://members.cox.net/pbrick-alpha/Phantom.htm): An alterative to Spirit.ocx
+* [MindStorms Tools](https://web.archive.org/web/20120130101715/http://ddi.uni-paderborn.de/index.php?id=4800&L=1), <sup>↗</sup>
 * [RCXSimulator](https://www4.cs.fau.de/~felser/RCXSimulator/) <sup>↗</sup>
 
 
