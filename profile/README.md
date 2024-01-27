@@ -25,7 +25,7 @@ onverting text files to Markdown, setting up wikis, or updating code to work wit
 
 The initial seventy-plus (70+) projects gathered under this BrickBot organization on GitHub were largely collected by Matthew Sheets.
 
-Links to official LEGO® software releases related to the LEGO MindStorms RCX are available [here](https://github.com/BrickBot/.github/releases/tag/LEGO).
+Links to official LEGO® software releases related to the LEGO MindStorms RCX are available [here](https://github.com/BrickBot/Archive/releases/tag/LEGO).
 
 <!--
 
