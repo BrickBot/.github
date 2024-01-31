@@ -11,8 +11,8 @@ or could only be found by looking up the website on an Internet archive.
 A few were projects that had been downloaded and saved before the original web pages disappeared,
 but whereever and whenever possible, links to either the original website (if still active) or an Internet archive version (if available) have been included.
 
-Despite these efforts, several projects are known to have slipped through the cracks.  If anyone might still have a copy of these,
-the contribution of that code would be most welcome.
+Despite these efforts, several projects are known to have slipped through the cracks.  If anyone might still have a copy of the source code for these,
+the contribution of that would be most welcome.
 * [Pocket Programmer](https://www.navina.ch/workshop/rcx/rcx.html) <sup>↗</sup>
 * [Phantom](https://web.archive.org/web/20101213054842/http://members.cox.net/pbrick-alpha/Phantom.htm): An alterative to Spirit.ocx  <sup>↗</sup>
 * [MindStorms Tools](https://web.archive.org/web/20120130101715/http://ddi.uni-paderborn.de/index.php?id=4800&L=1), <sup>↗</sup>
@@ -25,7 +25,7 @@ onverting text files to Markdown, setting up wikis, or updating code to work wit
 
 The initial seventy-plus (70+) projects gathered under this BrickBot organization on GitHub were largely collected by Matthew Sheets.
 
-Links to official LEGO® software releases related to the LEGO MindStorms RCX are available [here](https://github.com/BrickBot/Archive/releases/tag/LEGO).
+Links to official LEGO® software and other releases related to the LEGO MindStorms RCX are available in the [Archive](https://github.com/BrickBot/Archive/).
 
 <!--
 
