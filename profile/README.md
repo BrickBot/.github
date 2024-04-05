@@ -15,6 +15,7 @@ Despite these efforts, several projects are known to have slipped through the cr
 the contribution of that would be most welcome.
 * [Pocket Programmer](https://www.navina.ch/workshop/rcx/rcx.html) <sup>↗</sup>
 * [Phantom](https://web.archive.org/web/20101213054842/http://members.cox.net/pbrick-alpha/Phantom.htm): An alterative to Spirit.ocx  <sup>↗</sup>
+  + A pre-build version of Phantom (v1.0 RC 2) is bundled with [PRO-BOT](https://github.com/BrickBot/PRO-BOT) under the “Binaries” folder
 * [MindStorms Tools](https://web.archive.org/web/20120130101715/http://ddi.uni-paderborn.de/index.php?id=4800&L=1), <sup>↗</sup>
 * [RCXSimulator](https://www4.cs.fau.de/~felser/RCXSimulator/) <sup>↗</sup>
 
