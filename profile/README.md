@@ -1,6 +1,6 @@
-## Welcome! 👋
+## Welcome to the LEGO MindStorms RCX Hub! 👋
 
-This BrickBot organization contains projects related to the original Lego MindStorms set—the Lego MindStorms RCX!
+This BrickBot organization contains projects related to the original LEGO® MindStorms set—the LEGO® MindStorms RCX!
 
 A hacker community grew around the RCX—individuals intrigued by the capabilities and determined to push the limits of what was possible.
 Of a time before GitHub came to prominence as site for sharing open source projects, many of these RCX projects were scattered
@@ -26,7 +26,9 @@ onverting text files to Markdown, setting up wikis, or updating code to work wit
 
 The initial seventy-plus (70+) projects gathered under this BrickBot organization on GitHub were largely collected by Matthew Sheets.
 
-Links to official LEGO® software and other releases related to the LEGO MindStorms RCX are available in the [Archive](https://github.com/BrickBot/Archive/).
+Links to archives of official LEGO® software and other files and releases related to the LEGO MindStorms RCX are available in the [Archive](https://github.com/BrickBot/Archive/).
+
+This GitHub organization is not affiliated with the LEGO® Group.  Please [click here for the official LEGO® website](https://lego.com/).
 
 <!--
 
