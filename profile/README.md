@@ -22,7 +22,7 @@ the contribution of that would be most welcome.
 
 Projects imported to this GitHub organization have been curated to varying degrees as part of the import process.
 Please feel free to join and contribute in whatever way you can, whether that might be cleaning up or updating documenation,
-onverting text files to Markdown, setting up wikis, or updating code to work with the latest host platforms.
+converting text files to Markdown, setting up wikis, or updating code to work with the latest host platforms.
 
 The initial eighty-plus (80+) projects gathered under this BrickBot organization on GitHub were largely collected by Matthew Sheets.
 
