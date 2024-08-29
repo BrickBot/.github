@@ -18,6 +18,7 @@ the contribution of that would be most welcome.
   + A pre-build version of Phantom (v1.0 RC 2) is bundled with [PRO-BOT](https://github.com/BrickBot/PRO-BOT) under the “Binaries” folder
 * [MindStorms Tools](https://web.archive.org/web/20120130101715/http://ddi.uni-paderborn.de/index.php?id=4800&L=1), <sup>↗</sup>
 * [RCXSimulator](https://www4.cs.fau.de/~felser/RCXSimulator/) <sup>↗</sup>
+* [Ada/MindStorms Installer](https://web.archive.org/web/20080526011436/http://www.usafa.af.mil/df/dfcs/adamindstorms1.cfm) <sup>↗</sup>
 
 
 Projects imported to this GitHub organization have been curated to varying degrees as part of the import process.
