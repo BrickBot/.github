@@ -25,7 +25,7 @@ Projects imported to this GitHub organization have been curated to varying degre
 Please feel free to join and contribute in whatever way you can, whether that might be cleaning up or updating documenation,
 converting text files to Markdown, setting up wikis, or updating code to work with the latest host platforms.
 
-The initial eighty-plus (80+) projects gathered under this [BrickBot](https://brickbot.github.io/) organization on GitHub
+The initial ninety-plus (90+) projects gathered under this [BrickBot](https://brickbot.github.io/) organization on GitHub
 ([org info](https://api.github.com/orgs/BrickBot)) were largely collected by Matthew Sheets.
 
 Links to archives of official LEGO® software and other files and releases related to the LEGO MindStorms RCX are available in the [Archive](https://github.com/BrickBot/Archive/).
